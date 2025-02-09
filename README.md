@@ -29,9 +29,10 @@ An attendance tracking system with **admin and user roles**, integrating **data 
 - 🏆 **Contributing to open-source projects**
 
 ## 🔗 Connect With Me
-- **Portfolio Website:** [akshaymathad.dev]([https://akshaymathad.dev](https://akshay-mathad.github.io/my_portfolio/))
+- **Portfolio Website:** [akshaymathad.portfolio](https://akshay-mathad.github.io/my_portfolio/)
 - **LinkedIn:** [Akshay Mathad](https://www.linkedin.com/in/akshay-mathad-5a237a259)
 - **HackerRank:** [Profile](https://www.hackerrank.com/profile/mathadakshay1726)
-- **GitHub:** [@mathadakshay1726]([https://github.com/mathadakshay1726](https://github.com/akshay-mathad))
+- **GitHub:** [@akshay-mathad](https://github.com/akshay-mathad)
 
 Let's build something awesome together! 🚀
+
